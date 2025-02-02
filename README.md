@@ -3,7 +3,7 @@
 A brief description of what this project does and who it's for
 
 
-# Hi, I'm Katherine! 👋
+# Hi, I'm Virat Maladaeng! 👋
 
 
 ## Installation
